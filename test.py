@@ -27,7 +27,7 @@ try:
 
     cur.close()
 
-    direct to (view.html)
+    url = 'C:\Users\consultadd\PycharmProjects\task1\view.html'
 
 except:
     print ("Cannot Insert")
